@@ -1,4 +1,4 @@
-<h1 align="center">I'm Hamza Ammar Alsakkal</h1>
+<h1 align="center">I'm Hamza Alsakkal</h1>
 <h3 align="center">Full-Stack Developer | Cybersecurity Enthusiast | Entrepreneur</h3>
 
 - 🌱 I’m currently learning **Full-Stack Developer**
